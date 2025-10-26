@@ -1,4 +1,4 @@
-module github.com/sjzar/chatlog
+module github.com/josh202310/chatlog_backup
 
 go 1.24.0
 
